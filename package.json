@@ -6,7 +6,6 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thviet84/contactbook-backend.git"
@@ -24,6 +23,7 @@
     "express": "^4.18.1"
   },
   "devDependencies": {
+    "eslint": "^8.23.1",
     "nodemon": "^2.0.19"
   }
 }
